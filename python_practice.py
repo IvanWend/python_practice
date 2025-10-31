@@ -1,3 +1,6 @@
+
+#https://github.com/IvanWend/python_practice - ссылка на репозиторий, который я создал использую Git комманды
+
 import string
 
 def text_cleaner(text):
